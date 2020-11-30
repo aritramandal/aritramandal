@@ -1,9 +1,7 @@
 ### Hi there 👋
 # I'M YOUR FRIEND 
-# I HAVE A UB .. DO YOU WAANA SEE ?? THIS REPO IS HERE -- [𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝘽](https://github.com/Bristi-OP/LEGEND)
-
-https://camo.githubusercontent.com/28c0342c9ab8d6e8596a3fca3812bb6a1b5855b8de181616b132ceb9412b3a53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d706f6b75727440706f6b7572742e63662d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a706f6b75727440706f6b7572742e6366
-https://camo.githubusercontent.com/fb74aebf2541be70511cbaebc9099338d9dffce89195d068d11d2241c0c81466/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d706f6b7572742d3163613066313f7374796c653d666c61742d737175617265266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f742e6d652f706f6b757274
+# I HAVE A UB .. DO YOU WAANA SEE ?? THIS REPO IS HERE ☞☞☛︎☛︎ [𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝘽](https://github.com/Bristi-OP/LEGEND)
+#DO YOU WAANA DEPLOY MY BOT ?? DEPLOY NOW CLICK HERE ☞☞☛︎☛︎ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bristi-OP/LEGEND/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuhaash02%2Fviperuserbot&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=my+account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -15,13 +13,18 @@ https://camo.githubusercontent.com/fb74aebf2541be70511cbaebc9099338d9dffce89195d
 
 **aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+# ABOUT ME 
+•`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT ME ..
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PYTHON
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on MY [USERBOT](https://github.com/Bristi-OP/LEGEND) 
 
 - 🤔 I’m looking for help with ...
 
