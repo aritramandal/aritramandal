@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'M YOUR FRIEND 
 # I HAVE A UB .. DO YOU WAANA SEE ?? THIS REPO IS HERE ☞☞☛︎☛︎ [𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝘽](https://github.com/Bristi-OP/LEGEND)
-#DO YOU WAANA DEPLOY MY BOT ?? DEPLOY NOW CLICK HERE ☞☞☛︎☛︎ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bristi-OP/LEGEND/)
+# DO YOU WAANA DEPLOY MY BOT ?? DEPLOY NOW CLICK HERE ☞☞☛︎☛︎ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bristi-OP/LEGEND/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuhaash02%2Fviperuserbot&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=my+account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
