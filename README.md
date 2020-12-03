@@ -15,10 +15,7 @@
 
 
 # ABOUT ME 
-•`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT ME ..
-
-
-Here are some ideas to get you started:
+•`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT 
 
 • 🔭 I’m currently working on [`LEGEND USERBOT`](https://github.com/Bristi-OP/LEGEND)
 
