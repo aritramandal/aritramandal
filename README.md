@@ -9,6 +9,31 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritramandal&layout=compact&theme=cobalt)](https://github.com/aritramandal)
 
+# `ABOUT ME `
+•`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT 
+
+• 🔭 I’m currently working on [`LEGEND USERBOT`](https://github.com/Bristi-OP/LEGEND)
+
+• 🌱 I’m currently learning PYTHON
+
+• 👯 I’m looking to collaborate on MY [`USERBOT`](https://github.com/Bristi-OP/LEGEND) 
+
+• 🤔 I’m looking for help with ...
+
+• 💬 Ask me about ...
+
+• 📫 How to reach me: ...
+
+• 😄 Pronouns: ...
+
+• Find me in telegram [`@YOU_ARE_UNDER_ARREST`](https://t.meYOU_ARE_UNDER_ARREST) and [`@aritraX`](https://t.me/aritraX)
+
+• Join my telegram chatting group <a href="https://t.me/A_League_of_Legend"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="190" height="28"></a>
+
+• Join my telegram channel to know about me <a href="https://t.me/abtmee"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
+
+
+
 <!--
 
 **aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
