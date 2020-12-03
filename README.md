@@ -30,7 +30,7 @@
 
 • Join my telegram chatting group <a href="https://t.me/A_League_of_Legend"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="190" height="28"></a>
 
-• Join my telegram channel to know about me <a href="https://t.me/abtmee"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
+• Join my telegram channel to know about me <a href="https://t.me/abotme"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
 
 
 
