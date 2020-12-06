@@ -8,20 +8,6 @@
 [![aritramandal's github stats](https://github-readme-stats.vercel.app/api?username=aritramandal&show_icons=true&theme=cobalt&count_private=true)](https://github.com/aritramandal)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritramandal&layout=compact&theme=cobalt)](https://github.com/aritramandal)
-# Available ☟
- <a href="https://instagram.com/aritramandal40">
-    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
- 
- <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
-    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
-  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
-    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
-  <a href="https://github.com/aritramandal">
-    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
  
 
 
@@ -72,54 +58,19 @@
 
 
 
-**aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# ABOUT ME 
-•`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT 
-
-• 🔭 I’m currently working on [`LEGEND USERBOT`](https://github.com/Bristi-OP/LEGEND)
-
-• 🌱 I’m currently learning PYTHON
-
-• 👯 I’m looking to collaborate on MY [`USERBOT`](https://github.com/Bristi-OP/LEGEND) 
-
-• 🤔 I’m looking for help with ...
-
-• 💬 Ask me about ...
-
-• 📫 How to reach me: ...
-
-• 😄 Pronouns: ...
-
-• Find me in telegram [`@YOU_ARE_UNDER_ARREST`](https://t.meYOU_ARE_UNDER_ARREST) and [`@aritraX`](https://t.me/aritraX)
-
-• Join my telegram chatting group <a href="https://t.me/A_League_of_Legend"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="190" height="28"></a>
-
-• Join my telegram channel to know about me <a href="https://t.me/abtmee"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
-
-• Available in Facebook [SP_ARITRA](https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result)
-
-• Available in Instagram [Aritramandal40](https://Instagram.com/aritramandal40)
-
-• ⚡ Fun fact: ...
-
--->
-
-
-
-<!--
-**aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Available ☟
+ <a href="https://instagram.com/aritramandal40">
+    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+ 
+ <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
+    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
+    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
+  <a href="https://github.com/aritramandal">
+    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  </a>
+ 
 
