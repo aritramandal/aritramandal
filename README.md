@@ -35,29 +35,6 @@
 • Available in Facebook [SP_ARITRA](https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result)
 
 • Available in Instagram [Aritramandal40](https://Instagram.com/aritramandal40)
-
-# Available ☟
- <a href="https://instagram.com/aritramandal40">
-    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
- 
- <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
-    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
-  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
-    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
-  <a href="https://github.com/aritramandal">
-    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
- 
-
-
-
-
-
-
-
 ### Skills 👨‍💻
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
@@ -76,6 +53,23 @@
 </br>
 </br>
 
+
+
+# Available ☟
+ <a href="https://instagram.com/aritramandal40">
+    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+ 
+ <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
+    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
+    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
+  <a href="https://github.com/aritramandal">
+    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  </a>
+ 
 
 
 **aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
