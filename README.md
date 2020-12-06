@@ -8,6 +8,22 @@
 [![aritramandal's github stats](https://github-readme-stats.vercel.app/api?username=aritramandal&show_icons=true&theme=cobalt&count_private=true)](https://github.com/aritramandal)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritramandal&layout=compact&theme=cobalt)](https://github.com/aritramandal)
+# Available ☟
+ <a href="https://instagram.com/aritramandal40">
+    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+ 
+ <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
+    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
+    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
+  <a href="https://github.com/aritramandal">
+    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  </a>
+ 
+
 
 # `ABOUT ME `
 •`I'M A CUTE BOY.. I'M WORKING ON [LEGEND USERBOT](https://github.com/Bristi-OP/LEGEND) SUPPORT 
@@ -54,22 +70,6 @@
 </br>
 
 
-
-# Available ☟
- <a href="https://instagram.com/aritramandal40">
-    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
- 
- <a href="https://telegram.dog/YOU_ARE_UNDER_ARREST">
-    <img align="left" alt=" Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
-  <a href="https://m.facebook.com/sparitra.singh?tsid=0.5191905400793939&source=result">
-    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
-  <a href="https://github.com/aritramandal">
-    <img align="left" alt=" GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
- 
 
 
 **aritramandal/aritramandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
